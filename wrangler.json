@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "uptime-cloudflare-d1",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "49c46848-427f-4409-af58-28bcda304e0e",
+      "database_name": "lively-water-3fca-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
